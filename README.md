@@ -1,2 +1,2 @@
 # esint-front
-copy from mtg-front
+clone from mtg-front
