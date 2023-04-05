@@ -23,7 +23,7 @@ yarn-error.log*
 .next
 
 # IntelliJ
-mtg-web.iml
+esint-web.iml
 .idea
 
 /esint-front.iml
